@@ -26,6 +26,5 @@ Project Schedule
 * **fieldlens-cv** — Computer vision components
 * **fieldlens-integrations** — PMIS and schedule integrations
 
-Built for **Smart India Hackathon 2026 — SIH26122**.
+Built for **Smart India Hackathon 2026 — <a href="https://www.sihbuddy.in/ps/SIH26122">SIH26122</a>**.
 
-Problem Statement Link: <a href="https://www.sihbuddy.in/ps/SIH26122">SIH26122</a>
