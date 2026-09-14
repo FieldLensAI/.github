@@ -27,3 +27,4 @@ Project Schedule
 * **fieldlens-integrations** — PMIS and schedule integrations
 
 Built for **Smart India Hackathon 2026 — SIH26122**.
+Problem Statement Link: <a href="https://www.sihbuddy.in/ps/SIH26122">SIH26122</a>
